@@ -11,7 +11,10 @@ emojis = {
     ord('1'): 'venv/imagens/glasses.png',  # Substitua pelos caminhos das suas imagens de emojis
     ord('2'): 'venv/imagens/emoji.png',
     ord('3'): 'venv/imagens/nerd.png',
-    ord('4'): 'venv/imagens/oculos_rosa.png',
+    ord('4'): 'venv/imagens/mascara_jason.png',
+    ord('5'): 'venv/imagens/juliet.png',
+    ord('6'): 'venv/imagens/armacao.png',
+    ord('7'): 'venv/imagens/will_smith.png',
 }
 
 current_emoji = None
