@@ -14,6 +14,8 @@ emojis = {
     ord('5'): 'venv/imagens/juliet.png',
     ord('6'): 'venv/imagens/armacao.png',
     ord('7'): 'venv/imagens/will_smith.png',
+    ord('8'): 'venv/imagens/oculosrosa.png',
+    ord('9'): 'venv/imagens/oculosamarelo.png', 
 }
 
 current_emoji = None
